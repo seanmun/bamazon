@@ -4,12 +4,12 @@
 Application that mimics an eCommerce as it manages inventory and stock based on products purchased. Does not include a UI, instead is a node application that uses inquire on the command line. SQL is used to upload, update, and calculate data. 
 
 ## Pacakges
-*MySQL
-*Inquire
+* MySQL
+* Inquire
 
 ## To USE
-*Fort project
-*Install package.json (npm i)
-*node js file
-*follow prompts
+* Fort project
+* Install package.json (npm i)
+* node js file
+* follow prompts
 
